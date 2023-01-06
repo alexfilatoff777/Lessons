@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class WhileLoops {
+public class Lesson4WhileLoops {
     public static void main(String[] args) {
         int value = 0;
         while (value < 5) {
@@ -9,3 +9,4 @@ public class WhileLoops {
 
     }
 }
+

@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7a08c9e-6412-4016-a3fd-abd8a4874667" name="Changes" comment="прошел 5 уроков">
+      <change afterPath="$PROJECT_DIR$/src/Lesson4WhileLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson5ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7ScannerInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson8DoWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WhileLoops.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +43,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Users/user/dev/java-sprint1-hw"
+    "last_opened_file_path": "D:/Users/user/dev/Lessons",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,5 +69,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="прошел 5 уроков" />
     <option name="LAST_COMMIT_MESSAGE" value="прошел 5 уроков" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

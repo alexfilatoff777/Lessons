@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7a08c9e-6412-4016-a3fd-abd8a4874667" name="Changes" comment="прошел 5 уроков">
-      <change afterPath="$PROJECT_DIR$/src/Lesson4WhileLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson5ForLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson6If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson7ScannerInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson9BreakContinue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson8DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson8DoWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoops.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Users/user/dev/Lessons",
+    "last_opened_file_path": "D:/Users/user/dev/java-sprint1-hw",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
@@ -63,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672919634955</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="прошел 5 уроков">
+      <created>1673047221717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673047221718</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

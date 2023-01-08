@@ -13,11 +13,12 @@ public class Lesson8DoWhile {
         }
         while (!n.equals("n"));
         System.out.println("you entered n");
-        main2();
-        main3();
+
+        enter5();
+        mainY();
     }
 
-    static void main2() {
+    static void enter5() {
         Scanner scanner = new Scanner(System.in);
 
         int value;
@@ -29,14 +30,15 @@ public class Lesson8DoWhile {
         System.out.println("you entered 5!");
     }
 
-    static void main3() {
+    static void mainY() {
         System.out.println();
         Scanner scanner = new Scanner(System.in);
-        System.out.println("enter y");
         String y = " ";
+        System.out.println("enter y");
+        y = scanner.nextLine();
         while (!y.equals("y")) {
-            y = scanner.nextLine();
             System.out.println("error. need y");
+            y = scanner.nextLine();
         }
         System.out.println("ok");
     }

@@ -14,11 +14,12 @@ class HumanTr {
     private String name;
     private int age;
     public static String desc;
+    private static int countPeople;
     public HumanTr(){
         this.name = "name"; this.age = 0;
     }
     public HumanTr(String name, int age){
-        this.name = name; this.age = age;
+        this.name = name; this.age = age; countPeople++;
     }
     public void setName(String name, int age){
         this.name = name; this.age = age;
@@ -28,6 +29,6 @@ class HumanTr {
         return name+a+Integer.toString(age);
     }
     public void getAll(){
-        System.out.println(name+", "+age+", "+desc);
+        System.out.println(name+", "+age+", "+desc+", "+countPeople);
     }
 }

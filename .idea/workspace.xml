@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7a08c9e-6412-4016-a3fd-abd8a4874667" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DinnerAdvisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExpensesManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson23StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Praktikum.java" afterDir="false" />
+    <list default="true" id="a7a08c9e-6412-4016-a3fd-abd8a4874667" name="Changes" comment="прошел 5 уроков">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson24ObjectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson25Inheritance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,48 +36,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/admin/dev/Lessons&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Users/user/dev/java-sprint1-hw",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Application.Lesson23StringBuilder">
-    <configuration name="Lesson12StringArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson12StringArrays" />
+}]]></component>
+  <component name="RunManager" selected="Application.Lesson25Inheritance">
+    <configuration name="Lesson19This" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson19This" />
       <module name="Lessons" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson13MultidimensionalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson13MultidimensionalArrays" />
+    <configuration name="Lesson20Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson20Constructor" />
       <module name="Lessons" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson23StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson23StringBuilder" />
+    <configuration name="Lesson21Static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson21Static" />
       <module name="Lessons" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practicum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practicum" />
+    <configuration name="Lesson24ObjectClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson24ObjectClass" />
       <module name="Lessons" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Praktikum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum" />
+    <configuration name="Lesson25Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson25Inheritance" />
       <module name="Lessons" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lesson23StringBuilder" />
-        <item itemvalue="Application.Praktikum" />
-        <item itemvalue="Application.Practicum" />
-        <item itemvalue="Application.Lesson13MultidimensionalArrays" />
-        <item itemvalue="Application.Lesson12StringArrays" />
+        <item itemvalue="Application.Lesson25Inheritance" />
+        <item itemvalue="Application.Lesson24ObjectClass" />
+        <item itemvalue="Application.Lesson21Static" />
+        <item itemvalue="Application.Lesson20Constructor" />
+        <item itemvalue="Application.Lesson19This" />
       </list>
     </recent_temporary>
   </component>
@@ -123,8 +121,75 @@
       <option name="project" value="LOCAL" />
       <updated>1673185351969</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="прошел 5 уроков">
+      <created>1673208613147</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673208613147</updated>
+    </task>
+    <task id="LOCAL-00005" summary="прошел 5 уроков">
+      <created>1673552734734</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673552734734</updated>
+    </task>
+    <task id="LOCAL-00006" summary="прошел 5 уроков">
+      <created>1673691813546</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673691813546</updated>
+    </task>
+    <task id="LOCAL-00007" summary="прошел 5 уроков">
+      <created>1673711414072</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673711414072</updated>
+    </task>
+    <task id="LOCAL-00008" summary="прошел 5 уроков">
+      <created>1673711780827</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673711780827</updated>
+    </task>
+    <task id="LOCAL-00009" summary="прошел 5 уроков">
+      <created>1673711819817</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673711819817</updated>
+    </task>
+    <task id="LOCAL-00010" summary="прошел 5 уроков">
+      <created>1673711827610</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673711827610</updated>
+    </task>
+    <task id="LOCAL-00011" summary="прошел 5 уроков">
+      <created>1673712851919</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673712851919</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="прошел 5 уроков" />
@@ -137,6 +202,10 @@
           <url>file://$PROJECT_DIR$/src/Lesson11Arrays.java</url>
           <line>1</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson24ObjectClass.java</url>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Lesson12StringArrays.java</url>
@@ -157,13 +226,22 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lesson23StringBuilder.java</url>
-          <line>1</line>
-          <properties class="Lesson23StringBuilder" method="main">
+          <url>file://$PROJECT_DIR$/src/Lesson17Parameters.java</url>
+          <line>5</line>
+          <properties class="Lesson17Parameters" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Lesson19This.java</url>
+          <line>1</line>
+          <properties class="Lesson19This" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

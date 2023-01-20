@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7a08c9e-6412-4016-a3fd-abd8a4874667" name="Changes" comment="прошел 5 уроков">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson24ObjectClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson25Inheritance.java" afterDir="false" />
+    <list default="true" id="a7a08c9e-6412-4016-a3fd-abd8a4874667" name="Changes" comment="26">
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Users/user/dev/java-sprint1-hw",
+    "last_opened_file_path": "D:/Users/user/dev/Lessons",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -177,7 +175,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673712851919</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="прошел 5 уроков">
+      <created>1673805065346</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673805065346</updated>
+    </task>
+    <task id="LOCAL-00013" summary="26">
+      <created>1673805085018</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673805085018</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,7 +205,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="прошел 5 уроков" />
-    <option name="LAST_COMMIT_MESSAGE" value="прошел 5 уроков" />
+    <MESSAGE value="26" />
+    <option name="LAST_COMMIT_MESSAGE" value="26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
